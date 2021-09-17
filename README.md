@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel Vieira 👋
+### Hi there I'm Daniel Vieira 👋
 
 - 🔭 I’m currently working on BackEnd with C# and PL/SQL
 - 🌱 I’m currently learning Fullstack Web development. 
