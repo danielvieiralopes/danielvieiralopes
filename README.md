@@ -1,6 +1,6 @@
 ### Hi there I'm Daniel Vieira 👋
 
-- 🔭 I’m currently working on BackEnd with C# and PL/SQL
+- 🔭 I’m currently working on BackEnd with Dotnet.
 - 🌱 I’m currently learning Fullstack Web development. 
 - 📫 How to reach me: https://www.linkedin.com/in/danvieiralopes/
 
